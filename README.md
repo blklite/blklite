@@ -9,6 +9,11 @@ I build workflows that let AI coding agents do real work safely. I also build to
 **[Ironport](https://github.com/blklite/ironport)**: an open-city crime game in one HTML file. Steal cars, take jobs, rob shops, and lose the police with squirty cream. It is built with three.js, with no build step.
 **[Play it in your browser →](https://blklite.github.io/ironport/)** (a keyboard is required)
 
+[![B Rad Paint War: a sneak shot on a bot in the paintball arena](b-rad-paint-war.jpg)](https://blklite.github.io/b-rad-paint-war/)
+
+**[B Rad Paint War](https://github.com/blklite/b-rad-paint-war)**: a first-person paintball shooter in one HTML file. Play as B Rad against waves of bots, with 9 weapons. Stay out of their sight, crouch behind cover, and splat them from behind. It is built with three.js, with no build step.
+**[Play it in your browser →](https://blklite.github.io/b-rad-paint-war/)** (a keyboard and a mouse are required)
+
 ## Projects
 
 **[spec-to-ship-workbench](https://github.com/blklite/spec-to-ship-workbench)**
@@ -23,5 +28,5 @@ Python · JavaScript and three.js · Claude Code and AI agent workflows · Azure
 
 ## Right now
 
-- Building Ironport with a friend, through pull requests.
+- Building Ironport and B Rad Paint War with a friend, through pull requests.
 - Taking the workbench to v0.1b: a plugin, slash commands, and runner adapters.
